@@ -1,0 +1,4 @@
+Add these dependencies to your Spring Boot pom.xml:
+- Spring Web
+- Spring Data MongoDB
+- Lombok
